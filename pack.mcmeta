@@ -2,7 +2,6 @@
     "pack": {
         "description": "Adds balanced drills to vanilla! (Custom Textures)",
         "min_format": 75,
-        "max_format": 75,
         "pack_format": 75
     }
 }
